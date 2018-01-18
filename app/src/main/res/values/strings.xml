@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- General -->
+
+    <string name="app_name">SimpleList</string>
+
+    <string name="add_button">Ajouter</string>
+
+    <!-- Add new coin to portfolio -->
+
+    <string name="add_coin_title">Ajouter une crypto</string>
+    <string name="name_crypto_title">Nom de la monnaie</string>
+    <string name="number_hold_crypto">Nombre détenu</string>
+
+</resources>
