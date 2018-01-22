@@ -1,24 +1,24 @@
 package fr.wcs.simplelist;
 
 /**
- * Created by apprenti on 18/01/18.
+ * Created by apprenti on 22/01/18.
  */
 
-public class CoinModel {
+public class CoinListModel {
 
     private String shortNameCoin;
     private String longNameCoin;
     private String actualValueCoin;
     private String photoURLCoin;
 
-    public CoinModel (String shortNameCoin, String longNameCoin, String actualValueCoin, String photoURLCoin) {
+    public CoinListModel(String shortNameCoin, String longNameCoin, String actualValueCoin, String photoURLCoin) {
         this.shortNameCoin = shortNameCoin;
         this.longNameCoin = longNameCoin;
         this.actualValueCoin = actualValueCoin;
         this.photoURLCoin = photoURLCoin;
     }
 
-    public CoinModel(){
+    public CoinListModel(){
         //For Firebase
     }
 
