@@ -1,9 +1,9 @@
 package fr.wcs.simplelist;
 
-import android.app.LauncherActivity;
-
 import java.util.ArrayList;
 import java.util.List;
+
+import fr.wcs.simplelist.Models.CoinListModel;
 
 /**
  * Created by apprenti on 22/01/18.

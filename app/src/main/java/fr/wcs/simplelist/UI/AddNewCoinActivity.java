@@ -1,8 +1,10 @@
-package fr.wcs.simplelist;
+package fr.wcs.simplelist.UI;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.EditText;
+
+import fr.wcs.simplelist.R;
 
 public class AddNewCoinActivity extends AppCompatActivity {
 

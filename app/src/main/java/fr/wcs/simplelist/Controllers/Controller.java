@@ -1,4 +1,8 @@
-package fr.wcs.simplelist;
+package fr.wcs.simplelist.Controllers;
+
+import fr.wcs.simplelist.Models.CoinListModel;
+import fr.wcs.simplelist.DataSourceInterface;
+import fr.wcs.simplelist.ViewInterface;
 
 /**
  * Created by apprenti on 22/01/18.

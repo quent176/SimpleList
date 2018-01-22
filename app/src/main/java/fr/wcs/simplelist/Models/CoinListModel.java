@@ -1,4 +1,4 @@
-package fr.wcs.simplelist;
+package fr.wcs.simplelist.Models;
 
 /**
  * Created by apprenti on 22/01/18.
